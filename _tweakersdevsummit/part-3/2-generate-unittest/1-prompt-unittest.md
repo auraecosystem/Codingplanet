@@ -1,3 +1,5 @@
+[source](sources/src/main/java/com/mydeveloperplanet/myaicodeprojectplanet/CustomersController.java)
+
 The command utility `/test` expands to the following prompt.
 ```text
 Write a unit test for this code using JUnit.
